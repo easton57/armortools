@@ -26,6 +26,11 @@ cd armortools/armorpaint
 ../armorcore/make --graphics opengl --run
 ```
 
+**Linux (arm64)**
+```bash
+../armorcore/make --graphics opengl --run
+```
+
 **macOS (arm64)**
 ```bash
 ../armorcore/make --graphics metal
