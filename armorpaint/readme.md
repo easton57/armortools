@@ -21,12 +21,7 @@ cd armortools/armorpaint
 # Build and run
 ```
 
-**Linux (x64)**
-```bash
-../armorcore/make --graphics opengl --run
-```
-
-**Linux (arm64)**
+**Linux (x64 and arm64)**
 ```bash
 ../armorcore/make --graphics opengl --run
 ```
